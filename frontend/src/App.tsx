@@ -1,8 +1,9 @@
 const App = () => {
   return (
-    <div>
-      <h1>SkillPilot AI</h1>
-      <p>Your AI Career Mentor</p>
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center">
+      <h1 className="text-5xl font-bold text-blue-600">
+        SkillPilot AI 🚀
+      </h1>
     </div>
   );
 };
